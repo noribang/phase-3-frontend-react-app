@@ -1,6 +1,6 @@
 # Flatiron School Phase 3 React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app uses an API made in Sinatra. [Sinatra Github repo link here.](https://github.com/noribang/sinatra-starter-code).
 
 ## Available Scripts
 
