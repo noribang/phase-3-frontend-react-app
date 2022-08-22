@@ -1,0 +1,15 @@
+Read-GET
+--------
+App(useEffect-GET request)->MessageList(<ul></ul>)->Message->(<li></li>)
+App(useEffect-GET request)->TodoList(<ul></ul>)->Todo->(<li></li>)
+
+
+Create-POST
+----
+App->NewMessage(POST request)
+App->NewTodo(POST request)
+
+
+Destroy-DELETE
+----
+Todo

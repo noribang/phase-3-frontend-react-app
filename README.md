@@ -1,6 +1,6 @@
 # Flatiron School Phase 3 React App
 
-This app uses an API made in Sinatra. [Sinatra Github repo link here.](https://github.com/noribang/sinatra-starter-code).
+This app uses an API made with Sinatra. [Sinatra Github repo link here.](https://github.com/noribang/sinatra-starter-code)
 
 ## Available Scripts
 
